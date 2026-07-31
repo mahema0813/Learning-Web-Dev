@@ -1,1 +1,13 @@
+body {
+  background-color: lightblue;
+}
 
+h1 {
+  color: darkblue;
+  text-align: centre;
+}
+
+p {
+  font-size: 18px;
+  color: #333333;
+}
