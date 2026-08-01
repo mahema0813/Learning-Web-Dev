@@ -5,10 +5,15 @@ body {
 
 h1 {
   color: #D2042D;
-  text-align: center;
+  text-align: left;
   margin-bottom: 10px;
 }
 
+h2 {
+  color: #B03060;
+  text-align: left;
+  margin-bottom: 10px;
+  
 p {
   font-size: 18px;
   color: #333333;
