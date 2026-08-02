@@ -18,3 +18,11 @@ p {
   font-size: 18px;
   color:   #B03060;
 }
+
+ul {
+  display: flex;
+  gap: 10px;
+  list-style: none;
+  psdding: 0;
+}
+  
