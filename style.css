@@ -1,28 +1,33 @@
 body {
-  background-color: #FFD1DC;
+  background-color: lightblue;
   padding: 20px;
+  font-family: Georgia, Serif;
 }
 
 h1 {
-  color: #D2042D;
-  text-align: left;
-  margin-bottom: 10px;
+  color: darkblue;
+  text-align: center;
+  border: 20px solid darkblue;
+  padding: 10px;
+  margin-bottom: 20px;
 }
 
-h2 {
-  color: #D2042D;
-  text-align: left;
-  margin-bottom: 10px;
-  
 p {
   font-size: 18px;
-  color:   #B03060;
+  color: #333333;
+  line-height: 1.6;
 }
 
 ul {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
   gap: 10px;
   list-style: none;
-  psdding: 0;
+  padding: 0;
 }
-  
+
+.favorite {
+  color: green;
+  font-weight: bold;
+}
