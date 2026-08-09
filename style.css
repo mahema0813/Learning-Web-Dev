@@ -1,12 +1,12 @@
 body {
-  background-color: ;
+  background-color: pink;
   padding: 20px;
   font-family: Georgia, Serif;
   text-align: center;
 }
 
 h1 {
-  color: ;
+  color: red;
   border: 2px solid color;
   padding: 10px;
   margin-bottom: 10px;
@@ -28,12 +28,12 @@ p {
 }
 
 .favorite {
-  color: ;
+  color: cherry-red;
   font-weight: bold;
 }
 
 button {
-  background-color: ;
+  background-color: pink;
   color: ;
   border: none;
   padding: 10px 20px;
@@ -43,5 +43,5 @@ button {
 }
 
 button:hover {
-  background-color: ;
+  background-color: red;
 }
