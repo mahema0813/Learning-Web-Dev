@@ -5,3 +5,8 @@ bioButton.addEventListener("Click", function() {
 });
 let pink = "#FFC0CB";
 let red = "#FF0000";
+let skillItems = document.forEach(function(item) {
+  item.addEventListener("CLick", function() {
+    item.style.color = "red";
+  });
+});
