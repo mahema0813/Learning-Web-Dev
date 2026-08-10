@@ -45,3 +45,9 @@ button {
 button:hover {
   background-color: #FF0000;
 }
+
+.highlight {
+  color: red;
+  font-weight: bold;
+  text-decoration: underline;
+}
